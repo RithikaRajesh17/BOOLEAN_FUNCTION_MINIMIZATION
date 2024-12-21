@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/437c97a9-2fb2-4987-b227-429c168b641f)# BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
